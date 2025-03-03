@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **alex.david@stud.ubbcluj.ro**
 
-- 📄 Know about my experiences [here](https://github.com/user-attachments/files/19039621/My_Resume.pdf)
+- 📄 Find my resume [here](https://github.com/user-attachments/files/19039621/My_Resume.pdf)
 
 - ⚡Fun fact: **I am a 2 times bronze medalist in the Romanian National Olympiad in Informatics**
 
