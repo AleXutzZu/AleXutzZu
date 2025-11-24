@@ -1,9 +1,3 @@
-<div align="left">
-  <img height="200" src="https://github.com/user-attachments/assets/931bdc84-936e-4a05-9306-319cc07e0d80" alt="Avatar"/>
-</div>
-
-
-
 <h1 align="left">Hey there 👋</h1>
 
 
@@ -11,18 +5,18 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
+<img right-padding="10%" align="right" src="https://github.com/user-attachments/assets/931bdc84-936e-4a05-9306-319cc07e0d80" height="250" alt="Avatar" />
+<div align="left">
+  <p align="left">🔭 Currently working on <a href="https://github.com/AleXutzZu/blogposters">BlogPoster</a></p>
 
-###
+  <p align="left">👨‍💻 All of my projects are available on my profile</p>
 
-<p align="left">🔭 Currently working on <a href="https://github.com/AleXutzZu/blogposters">BlogPoster</a></p>
+  <p align="left">📫 How to reach me: <a href="mailto:alex.david@stud.ubbcluj.ro"><b>alex.david@stud.ubbcluj.ro</b></a></p>
 
-<p align="left">👨‍💻 All of my projects are available on my profile</p>
+  <p align="left">📄 Find my resume <a href="https://github.com/user-attachments/files/23182132/My.Resume.pdf">here</a></p>  
 
-<p align="left">📫 How to reach me: <a href="mailto:alex.david@stud.ubbcluj.ro"><b>alex.david@stud.ubbcluj.ro</b></a></p>
-
-<p align="left">📄 Find my resume <a href="https://github.com/user-attachments/files/23182132/My.Resume.pdf">here</a></p>
-
-> 💡 I'm passionate about web development, algorithms, and solving real-world problems. As a two-time bronze medalist in the Romanian National Olympiad in Informatics, I’ve honed strong problem-solving skills. I also enjoy mentoring, clear communication, and working collaboratively to turn ideas into results.
+  > 💡 I'm passionate about web development, algorithms, and solving real-world problems. As a two-time bronze medalist in the Romanian National Olympiad in Informatics, I’ve honed strong problem-solving skills. I also enjoy mentoring, clear communication, and working collaboratively to turn ideas into results.
+</div>
 
 
 ###
@@ -61,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=AleXutzZu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
