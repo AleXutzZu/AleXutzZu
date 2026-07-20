@@ -13,7 +13,7 @@
 
   <p align="left">📫 How to reach me: <a href="mailto:alex.david@stud.ubbcluj.ro"><b>alex.david@stud.ubbcluj.ro</b></a></p>
 
-  <p align="left">📄 Find my resume <a href="https://github.com/user-attachments/files/23842699/My.Resume.pdf">here</a></p>  
+  <p align="left">📄 Find my resume <a href="https://github.com/user-attachments/files/30204165/My.Resume.pdf">here</a></p>  
 
   > 💡 I'm passionate about web development, algorithms, and solving real-world problems. As a two-time bronze medalist in the Romanian National Olympiad in Informatics, I’ve honed strong problem-solving skills. I also enjoy mentoring, clear communication, and working collaboratively to turn ideas into results.
 </div>
